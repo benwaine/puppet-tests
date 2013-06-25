@@ -1,0 +1,3 @@
+node 'cassandrabase' {
+ include cassandra
+}
